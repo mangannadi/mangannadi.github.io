@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,AAAC,CACP,UAAU,CAAI,KAAK,CACnB,OAAO,CAAI,gBAAgB,CAAG",
+    "sources": [
+        "../sass/mmm.sass"
+    ],
+    "names": [],
+    "file": "mmm.min.css"
+}
